@@ -1,4 +1,5 @@
 """An Azure RM Python Pulumi program"""
+"""Jair Barreto :)"""
 
 from email.mime import application
 import pulumi
