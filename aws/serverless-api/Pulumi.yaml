@@ -1,0 +1,3 @@
+name: serverless-api
+runtime: nodejs
+description: Pulumi practice. Basic example of a serverless api solution.

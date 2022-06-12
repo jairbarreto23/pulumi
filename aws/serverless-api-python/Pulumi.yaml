@@ -1,0 +1,6 @@
+name: serverless-api-python
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Pulumi practice in python. Basic example of a serverless api solution.
