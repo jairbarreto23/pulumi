@@ -1,0 +1,6 @@
+name: celula-retos
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Programa para realizar retos de la celula de conocimiento
